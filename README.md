@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-818Nawaf/818Nawaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+818Nawaf/818Nawaf is a ✨ specialj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
